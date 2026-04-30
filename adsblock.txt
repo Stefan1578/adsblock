@@ -505,3 +505,4 @@ metrics.brightcove.com
 s.innovid.com
 tremorhub.com
 ads.tremorhub.com
+vk.com/rtrg
