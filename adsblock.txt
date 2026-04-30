@@ -129,9 +129,6 @@ inmobi.com
 ironsource.mobi
 is.com
 outcome-ssp.supersonicads.com
-redirector.googlevideo.com
-youtubei.googleapis.com
-ads.youtube.com
 adsrvr.org
 insights.adsrvr.org
 match.adsrvr.org
