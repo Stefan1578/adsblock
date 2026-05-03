@@ -304,8 +304,6 @@ an.facebook.com
 connect.facebook.net
 graph.facebook.com
 tr.facebook.com
-graph.instagram.com
-i.instagram.com
 sc-static.net
 tr.snapchat.com
 ads.snapchat.com
