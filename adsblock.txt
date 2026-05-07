@@ -62,3 +62,6 @@
 ||adserver.adtech.de^
 ||ads-fa.spotify.com^
 @@||spclient.wg.spotify.com^$important
+@@||s.youtube.com^$important
+@@||youtubei.googleapis.com^$important
+@@||i.instagram.com^$important
