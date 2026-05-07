@@ -46,3 +46,9 @@
 ||cd.connatix.com^
 ||capi.connatix.com^
 ||vid.connatix.com^
+||cdn.privacy-mgmt.com^
+||click.linksynergy.com^
+||t.pepperjamnetwork.com^
+||go.skimresources.com^
+||imasdk.googleapis.com^
+||dai.google.com^
