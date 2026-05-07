@@ -65,3 +65,4 @@
 @@||s.youtube.com^$important
 @@||youtubei.googleapis.com^$important
 @@||i.instagram.com^$important
+||quicksilver.scdn.co^$important
