@@ -44,5 +44,5 @@
 ||track.customer.io/events^
 ||ssl.p.jwpcdn.com^
 ||cd.connatix.com^
-capi.connatix.com
-vid.connatix.com
+||capi.connatix.com^
+||vid.connatix.com^
