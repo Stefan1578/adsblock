@@ -54,3 +54,11 @@
 ||dai.google.com^
 ||vk.com/rtrg^
 ||click.mailchimp.com^
+||audio-sp-h-a.spotify.com^
+||audio4-sp-h-a.spotify.com^
+||audio-sp-h-f.spotify.com^
+||audio4-sp-h-f.spotify.com^
+||spclient.wg.spotify.com^
+||adserver.adtech.de^
+||ads-fa.spotify.com^
+@@||spclient.wg.spotify.com^$important
