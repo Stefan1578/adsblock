@@ -1,5 +1,4 @@
 redirector.googlevideo.com
-youtubei.googleapis.com
 rudderstack.com
 bnc.lt
 singular.net
