@@ -66,3 +66,5 @@
 @@||youtubei.googleapis.com^$important
 @@||i.instagram.com^$important
 ||quicksilver.scdn.co^$important
+||siftscience.com^
+||appsflyer.com^
